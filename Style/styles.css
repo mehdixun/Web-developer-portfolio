@@ -196,3 +196,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     margin-bottom: 20px;
     border: none;
 }
+
+body{
+    background-color: red;
+}
