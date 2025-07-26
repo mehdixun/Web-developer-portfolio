@@ -195,11 +195,14 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     margin-bottom: 20px;
     border: none;
 }
+<<<<<<< HEAD
 
 .hide{
     display: none;
 }
 
+=======
+>>>>>>> a5c95a4 (mobile responsive added)
 /* Media query */
 
 @media screen and (max-width:576px) {
