@@ -196,6 +196,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border: none;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .hide{
     display: none;
@@ -203,6 +204,8 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 
 =======
 >>>>>>> a5c95a4 (mobile responsive added)
+=======
+>>>>>>> a5c95a42227f4b34406e6717647085c3e3bcf1b8
 /* Media query */
 
 @media screen and (max-width:576px) {
